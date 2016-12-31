@@ -12,7 +12,6 @@
         "cookie": "^0.3.1",
         "moment-timezone": "^0.5.0",
         "needle": "^1.1.0",
-        "osmosis": "^1.1.0",
         "random-useragent": "^0.3.0",
         "source-map-support": "^0.4.2"
     },
